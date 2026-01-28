@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+facenet-pytorch
+torch
+torchvision
+numpy
+pandas
+openpyxl
+Pillow
