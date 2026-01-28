@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+torch
+torchvision
+opencv-python
+facenet-pytorch
+ultralytics
+numpy
+pandas
+sqlalchemy
+pillow
+python-multipart
