@@ -1,0 +1,7 @@
+{
+  "name": "face-attendance",
+  "dependencies": {
+    "react": "^18.0.0",
+    "axios": "^1.6.0"
+  }
+}
